@@ -3,7 +3,8 @@ simple design showing some reactJS tools.
 # Instalation
 nodeJS - https://nodejs.org/en
 
-$ npm install axios
+$ npm install axios:
+
 Using yarn:
 $ yarn add axios
 
