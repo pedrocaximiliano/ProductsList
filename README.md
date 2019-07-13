@@ -9,5 +9,5 @@ $ yarn add axios
 
 $ npm install --save react-router-dom
 
-# init project
+# initial project
 npm install -g create-react-app
