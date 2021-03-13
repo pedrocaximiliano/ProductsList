@@ -19,7 +19,7 @@ class products extends Component {
     const { productsInfo } = this.state;
     return (
       <div className="product-info">
-        <h1>{productsInfo.title}</h1>
+        <h1>nos bruxão</h1>
         <p>{productsInfo.description}</p>
         <p>
           LINK: <a href={productsInfo.url}>{productsInfo.url}</a>

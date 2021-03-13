@@ -48,9 +48,8 @@ class Main extends Component {
       <div className="products-list">
         {products.map((product) => (
           <article key={product._id}>
-            <strong>{product.title}</strong>
+            <strong>teste</strong>
             <p>{product.discription}</p>
-            <Link to={`/products/${product._id}`}>Acessar</Link>
           </article>
         ))}
         <div className="actions"></div>
